@@ -1,0 +1,4 @@
+.idea/
+graph.svg
+.terraform
+modules/enc_ami/terraform.tfstate
